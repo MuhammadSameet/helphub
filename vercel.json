@@ -1,0 +1,9 @@
+{
+  "buildCommand": "cd frontend && npm run build",
+  "installCommand": "cd frontend && npm install",
+  "startCommand": "cd frontend && npm start",
+  "devCommand": "cd frontend && npm run dev",
+  "roots": [
+    "frontend"
+  ]
+}
